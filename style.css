@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px; /* Set the width of the <p> tags */
+  margin: 20px auto; /* Adds vertical space and centers horizontally */
+  text-align: center; /* Centers the text within the <p> tags */
+}
+
+nav {
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
